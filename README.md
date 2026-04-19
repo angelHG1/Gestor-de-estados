@@ -20,11 +20,14 @@ Se pueden ver las solicitudes registradas: <img width="283" height="135" alt="im
 
 Así como buscar o modificar una solicitud: <img width="351" height="217" alt="image" src="https://github.com/user-attachments/assets/daa112b8-fbd4-4523-ba86-2b9b612392ed" /> <img width="386" height="156" alt="image" src="https://github.com/user-attachments/assets/1b80e681-82ab-4c8e-bc8b-90369799b240" />
 
-## Casos de uso 
+## Casos de uso especiales
 ### Seleccionar opcion invalida para el estado 
+
 <img width="286" height="170" alt="image" src="https://github.com/user-attachments/assets/25cb4129-c2ab-4543-9a5a-844e37070774" />
+
 ### Buscar solicitud inexistente
 <img width="624" height="148" alt="image" src="https://github.com/user-attachments/assets/5907fc39-50e9-4781-852e-be37df48b4f3" />
+
 ### Intentar mostrar las solicitudes antes de agregar alguna
 <img width="513" height="266" alt="image" src="https://github.com/user-attachments/assets/0c27c980-ea97-4cd4-b7a2-7706d69f5767" />
 <img width="388" height="113" alt="image" src="https://github.com/user-attachments/assets/f9bf2c8a-762c-4839-9600-63fff73a8a50" />
