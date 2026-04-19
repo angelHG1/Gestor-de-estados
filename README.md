@@ -1,4 +1,4 @@
-# Gestor-de-estados
+# Gestor de solicitudes
 
 ## Explicacíon del problema
 Se solicitó un programa que permita gestionar solicitudes con el uso de enumeradores y listas principalmente, el programa debe permitir registrar una nueva solicitud, mostrar todas las solicitudes registradas, cambiar el estado de una solicitud existente y buscar una solicitud por ID. Así como tambien debe tener la capacidad de validar que los estados solo puedan ser seleccionados a partir del enumerador.
@@ -12,3 +12,5 @@ Como se solicitó que se puedan manejar mas de una solicitud dentro del programa
 para que pueda guardar en un solo espacio de la lista todos los datos de una solucitud, como es Id, nombre, etc.
 
 ## Flujo del programa y casos de uso (Screenshots)
+El programa inicia con un menu en cual mediante el uso de switch permite seleccionar la acción a realizar, donde la opción principal es la de agregar una nueva solicitud<img width="381" height="138" alt="image" src="https://github.com/user-attachments/assets/e3e15d13-61b1-4bab-9632-0a14b25e9aaa" />
+
