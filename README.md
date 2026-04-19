@@ -14,6 +14,13 @@ para que pueda guardar en un solo espacio de la lista todos los datos de una sol
 ## Flujo del programa y casos de uso (Screenshots)
 El programa inicia con un menu en cual mediante el uso de switch permite seleccionar la acción a realizar, donde la opción principal es la de agregar una nueva solicitud<img width="381" height="138" alt="image" src="https://github.com/user-attachments/assets/e3e15d13-61b1-4bab-9632-0a14b25e9aaa" />
 
-Se pasa a rellenar los datos de la solicitud y a seleccionar el estado de la misma. <img width="332" height="171" alt="image" src="https://github.com/user-attachments/assets/ab2e794a-5919-4923-9e17-f9c7204b193c" />
+Se pasa a rellenar los datos de la solicitud y a seleccionar el estado de la misma. Luego de los datos guardados, el programa limpia la interfaz y regresa al menú de incio <img width="332" height="171" alt="image" src="https://github.com/user-attachments/assets/ab2e794a-5919-4923-9e17-f9c7204b193c" />
+
+Se pueden ver las solicitudes registradas: <img width="283" height="135" alt="image" src="https://github.com/user-attachments/assets/c132ad26-ed22-46dc-b596-24e7336b5024" />
+
+Así como buscar o modificar una solicitud: <img width="351" height="217" alt="image" src="https://github.com/user-attachments/assets/daa112b8-fbd4-4523-ba86-2b9b612392ed" /> <img width="386" height="156" alt="image" src="https://github.com/user-attachments/assets/1b80e681-82ab-4c8e-bc8b-90369799b240" />
+
+
+
 
 
